@@ -1,8 +1,8 @@
 [
 	{
-		"name" : "Coffee",
+		"name" : "Netlify Powered Coffee!",
 		"price" : 2.99, 
-		"description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+		"description" : "This coffee is powered by Netlify!",
 		"thumbnail" : "http://placehold.it/700x400", 
 		"image" : "http://placehold.it/900x350"
 	},
